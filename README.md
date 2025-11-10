@@ -8,7 +8,7 @@ Without Root, Proot, Chroot, Box64, Wine.
 
 Install Termux and copy-paste enter -
 
-[https://f-droid.org/repo/com.termux_1020.apk](https://f-droid.org/repo/com.termux_1020.apk)
+[[https://f-droid.org/repo/com.termux_1020.apk](https://f-droid.org/repo/com.termux_1020.apk)](https://f-droid.org/repo/com.termux_1021.apk)
 
     apt update -y && \
     yes | apt upgrade -y && \
